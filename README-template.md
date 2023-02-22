@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/Akanni5/single-price-component-master-fm-project)
-- Live Site URL: [vercel app](https://your-live-site-url.com)
+- Live Site URL: [vercel app](https://single-price-component-master-fm-project.vercel.app/)
 
 ## My process
 
